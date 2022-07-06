@@ -28,7 +28,8 @@ This software start a python server (server.py) and then lets you connect to it 
 * Python2 [pkg install python2 -y]
 * Socket [pip install socket -y]
 * Os [pkg install os -y]
-⚠️If pkg command doesn't work, try with pip⚠️
+* ⚠️If pkg command doesn't work, try with pip⚠️
+
 ### INSTALLATION & USAGE:
 
 * git clone https://github.com/ParzivalHack/T-Chat
@@ -36,7 +37,7 @@ This software start a python server (server.py) and then lets you connect to it 
 * python server.py
 #### In a new session :
 * python client.py
-⚠️As soon as you stared you python server, make your friends download this tool and connect to that server by doing "python client.py" on their terminal ⚠️
+* ⚠️As soon as you stared you python server, make your friends download this tool and connect to that server by doing "python client.py" on their terminal ⚠️
 
 ### FEATURES :
 
