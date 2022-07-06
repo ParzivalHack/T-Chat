@@ -33,10 +33,10 @@ This software start a python server (server.py) and then lets you connect to it 
 * git clone https://github.com/ParzivalHack/T-Chat
 * cd T-Chat 
 * python server.py
-# In a new session :
+#### In a new session :
 * python client.py
 
-## FEATURES :
+### FEATURES :
 
 * [+] Start Python server!
 * [+] Chat anonymously!
