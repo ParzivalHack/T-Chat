@@ -26,9 +26,9 @@ This software start a python server (server.py) and then lets you connect to it 
 
 * Python [pkg install python -y]
 * Python2 [pkg install python2 -y]
-* Lolcat [pip install lolcat -y]
-* Git [pkg install git -y]
-
+* Socket [pip install socket -y]
+* Os [pkg install os -y]
+⚠️If pkg command doesn't work, try with pip⚠️
 ### INSTALLATION & USAGE:
 
 * git clone https://github.com/ParzivalHack/T-Chat
