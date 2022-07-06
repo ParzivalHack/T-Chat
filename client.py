@@ -1,4 +1,5 @@
-import socket, threading
+import socket, threading, os
+os.system("toilet T-Chat")
 nickname = input("Choose your nickname: ")
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)      #socket initialization
