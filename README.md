@@ -36,6 +36,7 @@ This software start a python server (server.py) and then lets you connect to it 
 * python server.py
 #### In a new session :
 * python client.py
+⚠️As soon as you stared you python server, make your friends download this tool and connect to that server by doing "python client.py" on their terminal ⚠️
 
 ### FEATURES :
 
