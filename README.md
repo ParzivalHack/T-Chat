@@ -11,7 +11,9 @@
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-GPL.v3-blue.svg"></a>
-</### ABOUT :
+</p>
+
+### ABOUT :
 
 This software start a python server (server.py) and then lets you connect to it and chat on it anonymously (client.py).
 
